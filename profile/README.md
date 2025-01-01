@@ -2,10 +2,7 @@
   <h2 align="center">Brainstory 🧠</h2>  
     <p align="center">
     Think smarter, not harder.
-    <br />
-    <a href="https://brainstory.ai"><strong>Learn more »</strong></a>
-    <br />
-    <br />
-    <a href="https://x.com/brainstoryai">Twitter</a>
+    <hr />
+    Brainstory is no longer an existing service, and this is its guts, fully open sourced for you!
   </p>
 </p>
